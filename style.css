@@ -9,7 +9,7 @@ body{
     font-family: 'Roboto', sans-serif;
     align-items: center;
     justify-content: center;
-    background-color: rgb(125, 95, 246);
+    background-color: rgba(10, 10, 41, 0.774);
     overflow: hidden;
     height: 100vh;
 }
